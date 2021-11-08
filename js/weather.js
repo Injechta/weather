@@ -1,6 +1,6 @@
 /* 
  Weather App Javascript code
- author: George Louis
+ author: Injechta
  date:   3/11/2018
  purpose: get local weather
 */
